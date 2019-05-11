@@ -1,0 +1,6 @@
+People:
+* they congegrate (flock)
+* occasionally a few leave the group
+* move at walking speed
+* sometimes rest, for either a short or long time
+* move towards a goal, then stop, then repeat
